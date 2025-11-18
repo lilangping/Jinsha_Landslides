@@ -9,7 +9,7 @@ In addition, landslide paths of every individual landslide were generated using 
 
 References:
 
-Langping Li, Wenxuan Huang, Hengxing Lan*, Alexander Strom, Yinghui Fang, Chongjian Shao, 2025. Large landslides in the upper Jinsha River basin: comprehensive inventory and implications. Geo-spatial Information Science. https://doi.org/10.1080/10095020.2025.2582301
+Langping Li, Wenxuan Huang, Hengxing Lan, Alexander Strom, Yinghui Fang, Chongjian Shao, 2025. Large landslides in the upper Jinsha River basin: comprehensive inventory and implications. Geo-spatial Information Science. https://doi.org/10.1080/10095020.2025.2582301
 
-Li, L.P.*, Lan, H.X.*, Strom, A., Macciotta, R., 2022. Landslide length, width and aspect ratio: path-dependent measurement and a revisit of nomenclature. Landslides, 19, 3009–3029. https://doi.org/10.1007/s10346-022-01935-2
+Li, L.P., Lan, H.X., Strom, A., Macciotta, R., 2022. Landslide length, width and aspect ratio: path-dependent measurement and a revisit of nomenclature. Landslides, 19, 3009–3029. https://doi.org/10.1007/s10346-022-01935-2
 
